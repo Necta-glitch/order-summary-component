@@ -12,7 +12,7 @@ function App() {
       <div className='flex flex-col w-[350px]  '>
         {/* Container for the Image  */}
         <div className='border'>
-          <img className='rounded-t-[15px]' src={hero} alt="" />
+          <img className='rounded-t-[15px]' src={hero} alt="musci image" />
         </div>
         {/* Container for the Text */}
         <div className='bg-white rounded-b-[15px] p-4'>
